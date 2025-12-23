@@ -1,0 +1,15 @@
+{
+  "name": "Dragon 42 by beaudibe",
+  "description": "A fierce dragon guarding the number 42, created by beaudibe.",
+  "image": "ipfs://bafybeiaj6rkeyuczfnpdxlnoddqyepzbif52i4ky33u3qrluzqn2mkma7a",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "beaudibe"
+    },
+    {
+      "trait_type": "Number",
+      "value": "42"
+    }
+  ]
+}
